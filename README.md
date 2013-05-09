@@ -3,12 +3,14 @@ Bootstrap Updater
 
 Bootstrap Updater is a simple cli, java based http://bootswatch.com/ and http://twitter.github.io/bootstrap/ downloader/updater.
 You can use following parameter:
+
 1. The theme directory where all themes of bootswatch and the default bootstrap theme are copied to
 2. The css directory where the bootstrap-responsive.css file is copied to
 3. The js directory where the bootstrap.js file is copied to
 4. The image directory where the icon image files are copied to
 
 If you run it without parameters the default directories are used witch are:
+
 1. static/css/themes
 2. static/css
 3. static/js/libs
